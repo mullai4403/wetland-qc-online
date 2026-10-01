@@ -1,0 +1,9 @@
+streamlit>=1.39
+numpy>=2.1
+pandas>=2.2
+openpyxl>=3.1
+opencv-python-headless>=4.10,<5
+Pillow>=11.0
+rapidocr>=3.0
+onnxruntime>=1.20
+xlrd>=2.0

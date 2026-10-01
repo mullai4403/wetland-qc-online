@@ -1,0 +1,34 @@
+{
+  "ACTIVE_LAYOUT": "landscape",
+  "WORKERS": 2,
+  "LAYOUTS": {
+    "landscape": {
+      "header": [
+        0.615,
+        0.085,
+        0.992,
+        0.155
+      ],
+      "legend": [
+        0.835,
+        0.245,
+        0.992,
+        0.405
+      ]
+    },
+    "portrait": {
+      "header": [
+        0.0,
+        0.0,
+        1.0,
+        0.15
+      ],
+      "legend": [
+        0.0,
+        0.7,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}
